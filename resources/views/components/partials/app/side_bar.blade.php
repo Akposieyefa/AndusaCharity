@@ -3,7 +3,7 @@
          <!-- Brand Logo -->
          <a href="{{ route('dashboard') }}" class="brand-link">
                 <img src="{{ asset('logo.jpeg') }}" alt="Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
-                <span class="brand-text font-weight-light">Charity</span>
+                <span class="brand-text font-weight-light">ANDUSA</span>
          </a>
 
          <!-- Sidebar -->
@@ -75,9 +75,9 @@
                                           @csrf
                                    </form>
                             </li>
-                             
-                             
-                             
+
+
+
                        </ul>
                 </nav>
                 <!-- /.sidebar-menu -->

@@ -13,29 +13,36 @@
               <div class="carousel-inner" role="listbox">
                      <!-- Item 1 -->
                      <div class="item active slide1">
-                            <h2 data-animation="animated bounceInDown"><span>Give a little change a lot</span></h2>
-                            <h3 data-animation="animated bounceInDown">consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.!</h3>
-                            <h4 data-animation="animated bounceInUp"><a href="about-us.html">READ MORE</a></h4>
+                            <h2 data-animation="animated bounceInDown"><span>WELCOME TO ANDUSA USA </span></h2>
+                            <h3 data-animation="animated bounceInDown">SERVICING NIGERIAN IN DIASPORA COMMUNITY IN THE UNITED STATES</h3>
+                            <h4 data-animation="animated bounceInUp"><a href="{{ route('about') }}">WHO WE ARE</a></h4>
                      </div>
                      <!-- Item 2 -->
                      <div class="item slide2">
-                            <h2 data-animation="animated bounceInDown"><span>More charity More better life</span></h2>
-                            <h3 data-animation="animated bounceInDown">consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.!</h3>
-                            <h4 data-animation="animated bounceInUp"><a href="about-us.html">READ MORE</a></h4>
+                            <h2 data-animation="animated bounceInDown"><span>WE CARE</span></h2>
+                            <h3 data-animation="animated bounceInDown">COVID-19 INTERVENTION FUND!</h3>
+                            <h4 data-animation="animated bounceInUp"><a href="{{ route('contact') }}">DONATE TODAY</a></h4>
                      </div>
                      <!-- Item 3 -->
                      <div class="item slide3">
-                            <h2 data-animation="animated bounceInDown"><span>Raise fund Warm heart</span></h2>
-                            <h3 data-animation="animated bounceInDown">consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.!</h3>
-                            <h4 data-animation="animated bounceInUp"><a href="about-us.html">READ MORE</a></h4>
+                            <h2 data-animation="animated bounceInDown"><span>CONNECT WITH OTHER NIGERIANS</span></h2>
+                            <h3 data-animation="animated bounceInDown">REGISTER TO BECOME A MEMBER OF ANDUSA USA!</h3>
+                            <h4 data-animation="animated bounceInUp"><a href="{{ route('contact') }}">REGISTER HERE</a></h4>
                      </div>
                      <!-- Item 4 -->
                      <div class="item slide4">
-                            <h2 data-animation="animated bounceInDown"><span>Raise your funds for a cause</span></h2>
-                            <h3 data-animation="animated bounceInDown">consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.!</h3>
-                            <h4 data-animation="animated bounceInUp"><a href="about-us.html">READ MORE</a></h4>
+                            <h2 data-animation="animated bounceInDown"><span>UPCOMING ANDUSA EVENTS</span></h2>
+                            <h3 data-animation="animated bounceInDown">JOIN US FOR OUR NEXT EVENT.</h3>
+                            <h4 data-animation="animated bounceInUp"><a href="{{ route('about') }}">FIND OUT MORE</a></h4>
                      </div>
                      <!-- End Item 4 -->
+                     <!-- Item 5 -->
+                     <div class="item slide4">
+                        <h2 data-animation="animated bounceInDown"><span>PARTNER WITH ANDUSA</span></h2>
+                        <h3 data-animation="animated bounceInDown">WORK WITH US TO MAKE NIGERIA A BETTER COUNTRY.</h3>
+                        <h4 data-animation="animated bounceInUp"><a href="{{ route('contact') }}">LEARN MORE</a></h4>
+                 </div>
+                 <!-- End Item 5 -->
 
               </div>
               <!-- End Wrapper for slides-->
@@ -51,11 +58,12 @@
 <section id="about-sec">
        <div class="container">
               <div class="text-center row">
-                     <h1>ABOUT CHARITY HOPE</h1>
+                     <h1>ABOUT ANDUSA USA</h1>
                      <hr>
-                     <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h5>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                     <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.</p>
+                     <h5>MISSION</h5>
+                     <p>Our mission is to promote the spirit of patriotism, networking and cooperation among Nigerians in the United States, for their individual and collective success, and to mobilize the vast resources of manpower and machinery toward building a greater Nigeria.</p>
+                     <h5>ABOUT US</h5>
+                     <p>Association of Nigerians in Diaspora Organization Americas was incorporated as a Non-Profit Organization in 2001 and is headquartered in Washington DC.</p>
                      <div class="text-center">
                             <a href="donate.html" class="btn1">donate now</a>
                             <a href="about-us.html" class="btn2">Read More</a>
@@ -69,13 +77,13 @@
               <div class="text-center row">
                      <h1>WHAT WE DO?</h1>
                      <hr>
-                     <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h5>
+                     <h5>The core vision of ANDUSA Americas.</h5>
                      <div class="text-left">
                             <div class="clearfix col-md-4 top-off">
                                    <div class="grid-content-left"><i class="fa fa-heart"></i></div>
                                    <div class="grid-content-wrapper">
                                           <h4>Charity for Education</h4>
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut efficitur eget justo quis dignissim.</p>
+                                          <p>Harness the talent and resources of Nigerians in Diaspora.</p>
                                           <a href="activities.html" title="">Read More</a>
                                    </div>
                             </div>
@@ -83,7 +91,7 @@
                                    <div class="grid-content-left"><i class="fa fa-cutlery"></i></div>
                                    <div class="grid-content-wrapper">
                                           <h4>Feed for Hungry Child</h4>
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut efficitur eget justo quis dignissim.</p>
+                                          <p>Feed the less previlege and giving hopes.</p>
                                           <a href="activities.html" title="">Read More</a>
                                    </div>
                             </div>
@@ -91,7 +99,7 @@
                                    <div class="grid-content-left"><i class="fa fa-home"></i></div>
                                    <div class="grid-content-wrapper">
                                           <h4>Home for Homeless</h4>
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut efficitur eget justo quis dignissim.</p>
+                                          <p>Our goal is to alleviate poverty and bring structures that works for the needy and promote through donations.</p>
                                           <a href="activities.html" title="">Read More</a>
                                    </div>
                             </div>
@@ -99,7 +107,7 @@
                                    <div class="grid-content-left"><i class="fa fa-tint"></i></div>
                                    <div class="grid-content-wrapper">
                                           <h4>Bringing Clean Water</h4>
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut efficitur eget justo quis dignissim.</p>
+                                          <p>Our goal is to alleviate poverty and bring structures that works for the needy and promote through donations.</p>
                                           <a href="activities.html" title="">Read More</a>
                                    </div>
                             </div>
@@ -107,7 +115,7 @@
                                    <div class="grid-content-left"><i class="fa fa-thumbs-up"></i></div>
                                    <div class="grid-content-wrapper">
                                           <h4>Help Little Hands</h4>
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut efficitur eget justo quis dignissim.</p>
+                                          <p>Our goal is to alleviate poverty and bring structures that works for the needy.</p>
                                           <a href="activities.html" title="">Read More</a>
                                    </div>
                             </div>
@@ -115,7 +123,7 @@
                                    <div class="grid-content-left"><i class="fa fa-money"></i></div>
                                    <div class="grid-content-wrapper">
                                           <h4>Donate for Children</h4>
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut efficitur eget justo quis dignissim.</p>
+                                          <p>Our goal is to alleviate poverty and bring structures that works for the needy and promote through donations.</p>
                                           <a href="activities.html" title="">Read More</a>
                                    </div>
                             </div>
@@ -129,17 +137,18 @@
               <div class="text-center row">
                      <h1>How can you help?</h1>
                      <hr>
-                     <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h5>
+                     <h5>Give us a brief description of the service that you are promoting.</h5>
                      <div class="text-left">
                             <div class="clearfix col-md-6 top-off">
-                                   <video width="400" controls>
-                                          <source src="images/mov_bbb.mp4" type="video/mp4">
-                                   </video>
+                             <video width="400" controls>
+                                    <source src="images/andusa_video.mp4" type="video/mp4">
+
+                             </video>
                             </div>
                             <div class="clearfix col-md-6 top-off">
                                    <div class="media">
                                           <div class="media-image">
-                                                 <img src="images/g1.png" class="attachment-full size-full" alt="g1"> </div>
+                                                 <img src="images/g1.jpg" class="attachment-full size-full" alt="g1"> </div>
                                           <div class="media-text">
                                                  <h5>BECOME A VOLUNTEER</h5>
                                                  <p>Give us a brief description of the service that you are promoting.</p>
@@ -155,7 +164,7 @@
                                    </div>
                                    <div class="media">
                                           <div class="media-image">
-                                                 <img src="images/g1.png" class="attachment-full size-full" alt="g1"> </div>
+                                                 <img src="images/g1.jpg" class="attachment-full size-full" alt="g1"> </div>
                                           <div class="media-text">
                                                  <h5>GIVE A SCHOLASHIP</h5>
                                                  <p>Give us a brief description of the service that you are promoting.</p>
@@ -172,32 +181,32 @@
               <div class="text-center row">
                      <h1>OUR PROJECTS</h1>
                      <hr>
-                     <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h5>
+                     <h5>ANDUSA ongoing and completed projects.</h5>
                      <div class="text-center">
                             <div class="clearfix col-md-4 top-off">
                                    <div class="grid-image"><img src="images/test1.jpg"></div>
                                    <div class="post-content">
-                                          <h3>Nepal Earthquake: Clean Water Initiative</h3>
+                                          <h3>Charity for Education</h3>
                                           <hr>
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                          <p>Education charities make learning possible for students of all ages, from pre-school to graduate school. They also provide other educational services and opportunities that help make schools more effective and more accessible to students of all backgrounds.</p>
                                           <a href="projects.html" title="">View Project</a>
                                    </div>
                             </div>
                             <div class="clearfix col-md-4 top-off">
                                    <div class="grid-image"><img src="images/test2.jpg"></div>
                                    <div class="post-content">
-                                          <h3>Nepal Earthquake: Clean Water Initiative</h3>
+                                          <h3>Clean Water Initiative</h3>
                                           <hr>
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                          <p>The Clean Water Initiative (CWI) aims to reduce wastage of water, make clean and potable water affordable in areas it is inaccessible, and improve levels of sanitation and hygiene there. Nearly one-third of all countries currently face medium to high levels of water stress.</p>
                                           <a href="projects.html" title="">View Project</a>
                                    </div>
                             </div>
                             <div class="clearfix col-md-4 top-off">
                                    <div class="grid-image"><img src="images/test3.jpg"></div>
                                    <div class="post-content">
-                                          <h3>Nepal Earthquake: Clean Water Initiative</h3>
+                                          <h3>Covid-19 Intervention</h3>
                                           <hr>
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                          <p>The adverse economic effects of COVID-19 are a global phenomenon which in reality is not peculiar to Nigeria. However, the handling of the economy in response to, Nearly one-third of all countries currently face medium to high levels of Covid19 lockdown.</p>
                                           <a href="projects.html" title="">View Project</a>
                                    </div>
                             </div>
@@ -205,13 +214,13 @@
               </div>
        </div>
 </section>
-
+{{--
 <section id="gallery-sec">
        <div class="container">
               <div class="text-center row">
                      <h1>OUR GALLERY</h1>
                      <hr>
-                     <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h5>
+                     <h5>On this page, you will also find curated pictures from past ANDUSA events and programs. For the sake of ease, all pictures have been categorized based on Event names and dates. To view an album, simply click on any of the Album images below..</h5>
                      <ul class="clearfix">
 
                             <li>
@@ -278,14 +287,14 @@
                      </div>
               </div>
        </div>
-</section>
+</section> --}}
 
 <section id="projects-sec">
        <div class="container">
               <div class="text-center row">
-                     <h1>Blog Post</h1>
+                     <h1>latest Post</h1>
                      <hr>
-                     <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h5>
+                     <h5>Get latest trends and update about ANDUSA USA.</h5>
                      <div class="text-center">
                      @foreach(posts() as $post)
                             <div class="clearfix col-md-4 top-off">
@@ -301,7 +310,7 @@
                                           </p>
                                           <a href="{{ route('blog-post', $post->id) }}" title="">Read More</a>
                                    </div>
-                            </div>      
+                            </div>
                      @endforeach
                      </div>
               </div>

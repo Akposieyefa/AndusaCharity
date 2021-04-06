@@ -20,57 +20,78 @@
               <div class="text-center row">
                      <h1>ABOUT ANDUSA</h1>
                      <hr>
-                     <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h5>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                     <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.</p>
+                     <h5>MISSION</h5>
+                     <p>Our mission is to promote the spirit of patriotism, networking and cooperation among Nigerians in the United States, for their individual and collective success, and to mobilize the vast resources of manpower and machinery toward building a greater Nigeria.</p>
+                     <h5>VISION.</h5>
+                     <p>The core vision of ANDUSA Americas, USA is deeply rooted in the organization's firm belief that Diaspora Nigerians can positively dominate their immediate environment while making significant contributions to accelerate Nigeria’s development. ANDUSA Americas USA, seeks to develop effective modes - through programs, policies, and advocacy for members to access opportunities for harnessing their talents, expertise, and resources for personal development and nation building.
+                     <h5>OUR HISTORY</h5>
+                     <p>In the late 1990s, there was a vibrant debate on the phenomenon of Brain-drain, the migration of skilled human resources for trade, education and greater opportunity mostly from developing countries to the West. This was the foreshadow of a series of deliberations between former Nigerian President, H.E. Olusegun Obasanjo, GCFR and Nigerian professionals in the United States, in Atlanta, Georgia. These discussions focused on how to harness the talent and resources of Nigerians in Diaspora toward the economic and social development of Nigeria. Hence, the birth of the Nigerian in Diaspora Organization Americas, ANDUSA. Assocition of Nigerians in Diaspora Organization Americas was incorporated as a non-profit organization. ANDUSA is the single representative body recognized by the Federal Government of Nigeria as the umbrella organization for Nigerians in the Diaspora. The Federal policy of Nigeria mandates all foreign missions overseas to support the development of the organization. ANDUSA provides a unique platform for intellectuals, technocrats, policy makers, workers and all Nigerians in Diaspora to present development propositions to the Government at all levels</p>
+                     <h5>GENERAL PROVISIONS</h5>
+                     <p>The National Boards of Directors shall be the highest governing body of the Organization at each country level. It shall be ultimately responsible for the administration of the Organization in the nation where the ANDUSA Organization is located.</p>
                      <div class="text-center">
                      </div>
               </div>
        </div>
 </section>
 
-<section id="help">
-       <div class="container">
-              <div class="text-center row">
-                     <h1>WAYS TO HELP</h1>
-                     <hr>
-                     <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h5>
-                     <div class="text-left">
-                            <div class="clearfix col-md-6 top-off">
-                                   <div class="icon_circle"><i class="fa fa-heartbeat">&nbsp;</i></div>
-                                   <div class="help-text">
-                                          <h4>Donate</h4>
-                                          <div class="line line-50"></div>
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                   </div>
-                            </div>
-                            <div class="clearfix col-md-6 top-off">
-                                   <div class="icon_circle"><i class="fa fa-user-plus">&nbsp;</i></div>
-                                   <div class="help-text">
-                                          <h4>Participate</h4>
-                                          <div class="line line-50"></div>
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                   </div>
-                            </div>
-                            <div class="clearfix col-md-6 top-off">
-                                   <div class="icon_circle"><i class="fa fa-usd">&nbsp;</i></div>
-                                   <div class="help-text">
-                                          <h4>Fundraise</h4>
-                                          <div class="line line-50"></div>
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                   </div>
-                            </div>
-                            <div class="clearfix col-md-6 top-off">
-                                   <div class="icon_circle"><i class="fa fa-credit-card">&nbsp;</i></div>
-                                   <div class="help-text">
-                                          <h4>Contribute</h4>
-                                          <div class="line line-50"></div>
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                   </div>
-                            </div>
-                     </div>
-              </div>
-       </div>
+<section id="activities-sec">
+    <div class="container">
+           <div class="text-center row">
+                  <h1>WHAT WE DO?</h1>
+                  <hr>
+                  <h5>The core vision of ANDUSA Americas.</h5>
+                  <div class="text-left">
+                         <div class="clearfix col-md-4 top-off">
+                                <div class="grid-content-left"><i class="fa fa-heart"></i></div>
+                                <div class="grid-content-wrapper">
+                                       <h4>Charity for Education</h4>
+                                       <p>Harness the talent and resources of Nigerians in Diaspora.</p>
+                                       <a href="activities.html" title="">Read More</a>
+                                </div>
+                         </div>
+                         <div class="clearfix col-md-4 top-off">
+                                <div class="grid-content-left"><i class="fa fa-cutlery"></i></div>
+                                <div class="grid-content-wrapper">
+                                       <h4>Feed for Hungry Child</h4>
+                                       <p>Feed the less previlege and giving hopes.</p>
+                                       <a href="activities.html" title="">Read More</a>
+                                </div>
+                         </div>
+                         <div class="clearfix col-md-4 top-off">
+                                <div class="grid-content-left"><i class="fa fa-home"></i></div>
+                                <div class="grid-content-wrapper">
+                                       <h4>Home for Homeless</h4>
+                                       <p>Our goal is to alleviate poverty and bring structures that works for the needy and promote through donations.</p>
+                                       <a href="activities.html" title="">Read More</a>
+                                </div>
+                         </div>
+                         <div class="clearfix col-md-4 top-off">
+                                <div class="grid-content-left"><i class="fa fa-tint"></i></div>
+                                <div class="grid-content-wrapper">
+                                       <h4>Bringing Clean Water</h4>
+                                       <p>Our goal is to alleviate poverty and bring structures that works for the needy and promote through donations.</p>
+                                       <a href="activities.html" title="">Read More</a>
+                                </div>
+                         </div>
+                         <div class="clearfix col-md-4 top-off">
+                                <div class="grid-content-left"><i class="fa fa-thumbs-up"></i></div>
+                                <div class="grid-content-wrapper">
+                                       <h4>Help Little Hands</h4>
+                                       <p>Our goal is to alleviate poverty and bring structures that works for the needy.</p>
+                                       <a href="activities.html" title="">Read More</a>
+                                </div>
+                         </div>
+                         <div class="clearfix col-md-4 top-off">
+                                <div class="grid-content-left"><i class="fa fa-money"></i></div>
+                                <div class="grid-content-wrapper">
+                                       <h4>Donate for Children</h4>
+                                       <p>Our goal is to alleviate poverty and bring structures that works for the needy and promote through donations.</p>
+                                       <a href="activities.html" title="">Read More</a>
+                                </div>
+                         </div>
+                  </div>
+           </div>
+    </div>
 </section>
 
 <section id="team">
@@ -78,7 +99,7 @@
               <div class="text-center row">
                      <h1>MEET OUR TEAM</h1>
                      <hr>
-                     <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h5>
+                     <h5>We would like to introduce you to our Leadership team of Association of Nigerians in Diaspora Organization, USA. Our Leadership team is passionate about the collective progress of Nigerians in Diaspora and working together to build a greater Nigeria.</h5>
                      @foreach(trustees() as $trustee)
                             <div class="member col-xs-6 col-md-3">
                                    <div class="inner">

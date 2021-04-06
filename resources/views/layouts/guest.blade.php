@@ -25,7 +25,7 @@
        <x-partials.guest.nav />
         @yield('content')
        <x-partials.guest.footer />
-       
+
        <script type="text/javascript" src="{{ asset('js/jquery.min.js') }} "></script>
        <script src="{{ asset('js/bootstrap.js') }} "></script>
        <script src="{{ asset('js/bootsnav.js') }}"></script>
@@ -64,7 +64,7 @@
                                    <div class="left-text">Copyright &copy; ANDUSA Hope 2021. All Rights Reserved</div>
                             </div>
                             <div class="col-md-6">
-                                   <div class="right-text">Design &amp; Developed by: <a href="https://twitter.com/Orutu_AW" target="_blank"><strong>Orutu</strong> Akposieyefa Williams</a></div>
+                                   <div class="right-text">Design &amp; Developed for: <a href="https://www.andusa.org/" target="_blank"><strong>ANDUSA</strong> USA</a></div>
                             </div>
                      </div>
               </div>
