@@ -2,6 +2,8 @@
 
 namespace App\Http\Repositories;
 use App\Models\Contact;
+use App\Mail\ContactMail;
+use Illuminate\Support\Facades\Mail;
 
 class ContactRepository
 {
@@ -47,10 +49,20 @@ class ContactRepository
         $request->validate([
             'message' => 'required'
         ]);
-        $this->model->findOrFail($id)->update([
-            'status' => $request->message
-        ]);
-        return $this->model;
+        $message = $this->model->findOrFail($id);
+        $data = [
+            'subject' => $message->subject,
+            'reply' => $request->message
+        ];
+        try {
+            Mail::to($message->email)->send(new ContactMail($data));
+            $message->update([
+                'status' => $request->message
+            ]);
+            return $this->model;
+        } catch (Exception $e) {
+            return $e->getMessage();
+        }
     }
 
     public function deleteMessage($id)

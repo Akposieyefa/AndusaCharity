@@ -9,7 +9,7 @@
        <meta name="robots" content="index,follow">
 
        <meta name="csrf-token" content="{{ csrf_token() }}">
-
+       <link rel="shortcut icon" href="{{asset('favicon.jpg')}}">
        <title>{{ config('app.name', 'Laravel') }}</title>
 
        <link href="{{ asset('css/font-awesome.min.css') }} " rel="stylesheet">

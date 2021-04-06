@@ -292,7 +292,7 @@
 <section id="projects-sec">
        <div class="container">
               <div class="text-center row">
-                     <h1>latest Post</h1>
+                     <h1>Latest Post</h1>
                      <hr>
                      <h5>Get latest trends and update about ANDUSA USA.</h5>
                      <div class="text-center">
