@@ -28,8 +28,8 @@
                                    </div>
                                    <h3>PHONE</h3>
                                    <div class="fancy-box-content">
-                                          <p>Phone 01: +1-310-341-3870<br>
-                                                 Phone 02: +1-310-341-387</p>
+                                          <p>Phone 01: +1-347-751-9151<br>
+                                                 Phone 02: +1-347-751-9151</p>
                                    </div>
                             </div>
                      </div>
@@ -52,8 +52,9 @@
                                    </div>
                                    <h3>EMAIL</h3>
                                    <div class="fancy-box-content">
-                                          <p>contact@andusa.com<br>
-                                          contact@andusa.com</p>
+                                    <a href="mailto:contactus@andusa.org"><p color ="white">contactus@andusa.org<br>
+                                          </p></a>
+                                          <p>contactus@andusa.org</p>
                                    </div>
                             </div>
                      </div>
